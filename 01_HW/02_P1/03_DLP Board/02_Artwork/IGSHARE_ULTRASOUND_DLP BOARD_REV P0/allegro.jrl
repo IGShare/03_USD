@@ -1,0 +1,351 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Thu Nov 30 15:58:26 2017
+\t (00:00:02)         Host=USER User=Administrator Pid=552 CPUs=4
+\t (00:00:02) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 653
+\i (00:00:04) trapsize 641
+\i (00:00:05) trapsize 655
+\i (00:00:05) trapsize 669
+\i (00:00:05) trapsize 1057
+\i (00:00:05) generaledit 
+\i (00:00:07) open 
+\i (00:00:14) fillin "ultrasound_dlp_p0_20171128.brd"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 22555
+\w (00:00:14) Dielectric layer thickness is 0 !
+\d (00:00:14) Database opened: G:/01_work/00_IGS/03_ETC/초음파장비/DLP BOard/Artwork/ultrasound_dlp_p0/ultrasound_dlp_p0_20171128.brd
+\i (00:00:15) generaledit 
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 59.8273 39.7926
+\i (00:00:15) trapsize 11277
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 2.5388 61.6706
+\i (00:00:16) trapsize 5639
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:18) roam x 96 
+\i (00:00:18) roam x 96
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 46.3606 58.0619
+\i (00:00:31) trapsize 11277
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 154.6224 102.9454
+\i (00:00:32) trapsize 22555
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 170.4106 120.9890
+\i (00:00:33) trapsize 11277
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 161.8399 109.2607
+\i (00:00:33) trapsize 5639
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 191.6119 76.6693
+\i (00:00:35) trapsize 11277
+\i (00:00:39) setwindow form.vf_vis
+\i (00:00:39) FORM vf_vis all_all_visible YES 
+\i (00:00:41) FORM vf_vis all_all_visible NO 
+\i (00:00:41) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:42) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:45) FORM vf_vis colorview_list Film: FAB 
+\i (00:00:48) FORM vf_vis colorview_list Film: MASK_TOP 
+\i (00:00:52) FORM vf_vis colorview_list Film: MASK_BOTTOM 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 146.2772 60.6556
+\i (00:00:58) trapsize 5639
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out 146.2773 60.6557
+\i (00:00:59) trapsize 11277
+\i (00:01:03) setwindow form.vf_vis
+\i (00:01:03) FORM vf_vis colorview_list Film: SILK_TOP 
+\i (00:01:06) FORM vf_vis colorview_list Film: SILK_BOTTOM 
+\i (00:01:13) FORM vf_vis colorview_list Film: MASK_BOTTOM 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 183.9434 62.9111
+\i (00:01:14) trapsize 5639
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 183.9434 62.9111
+\i (00:01:15) trapsize 11277
+\i (00:01:46) pick grid 28.3170 -1.8205
+\t (00:01:46) last pick:  28.2500  -1.7500
+\i (00:01:48) trapsize 16368
+\i (00:04:00) trapsize 11277
+\i (00:04:00) zoom in 1 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) zoom in 14.5588 48.9273
+\i (00:04:00) trapsize 5639
+\i (00:04:01) zoom in 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom in 14.5588 48.9273
+\i (00:04:01) trapsize 2819
+\i (00:04:01) zoom in 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom in 9.2021 46.3336
+\i (00:04:01) trapsize 1410
+\i (00:04:02) roam y 96 
+\i (00:04:02) roam y 96
+\i (00:04:02) roam y 96 
+\i (00:04:02) roam y 96
+\i (00:04:04) show element 
+\i (00:04:06) setwindow form.find
+\i (00:04:06) FORM find all_off  
+\i (00:04:14) FORM find cline_segs YES 
+\i (00:04:15) FORM find cline_segs NO 
+\i (00:04:16) FORM find cline_segs YES 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) pick grid 9.9634 43.6088
+\t (00:04:18) last pick:  10.0000  43.5000
+\i (00:04:19) show measure 
+\i (00:04:21) pick grid 10.1043 44.4264
+\t (00:04:21) last pick:  10.0000  44.5000
+\i (00:04:22) setwindow text
+\i (00:04:22) close 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in 11.3730 42.0863
+\i (00:04:23) trapsize 705
+\i (00:04:24) pick grid 10.1184 43.5806
+\t (00:04:24) last pick:  10.0000  43.5000
+\i (00:04:26) setwindow text
+\i (00:04:26) close 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom out 12.4302 45.3991
+\i (00:06:16) trapsize 1410
+\i (00:06:17) zoom out 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom out 13.2196 45.0889
+\i (00:06:17) trapsize 2819
+\i (00:06:17) zoom out 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom out 13.2760 45.0889
+\i (00:06:17) trapsize 5639
+\i (00:06:17) zoom out 1 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) zoom out 43.8375 47.4572
+\i (00:06:18) trapsize 11277
+\i (00:06:21) plot 
+\i (00:06:24) plotwint initialize "Kyocera FS-6530MFP KX"
+\i (00:06:24) plotwint orientation 2
+\i (00:06:24) plotwint papername "A4"
+\i (00:06:24) plotwint copies 1
+\i (00:06:24) plotwint defaultsource 7
+\i (00:06:24) plotwint printquality 600
+\i (00:06:24) plotwint color 2
+\i (00:06:24) plotwint duplex 1
+\i (00:06:24) plotwint execute
+\i (00:06:25) zoom out 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom out 87.3677 30.0903
+\i (00:06:25) trapsize 22555
+\i (00:06:25) zoom out 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom out 88.2699 29.6391
+\i (00:06:25) trapsize 45109
+\i (00:06:26) zoom in 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom in 227.2060 97.3028
+\i (00:06:26) trapsize 22555
+\i (00:06:48) pick grid -54.2749 212.7822
+\t (00:06:48) last pick:  -54.2500  212.7500
+\i (00:06:50) setwindow text
+\i (00:06:50) close 
+\i (00:06:51) setwindow pcb
+\i (00:06:51) zoom fit 
+\i (00:06:51) trapsize 8806
+\i (00:06:54) plot setup 
+\i (00:06:56) setwindow form.fpfileplotsetup
+\i (00:06:56) FORM fpfileplotsetup cancel  
+\i (00:06:56) setwindow pcb
+\i (00:06:56) generaledit 
+\i (00:06:57) setwindow text
+\i (00:06:57) close 
+\i (00:07:00) setwindow pcb
+\i (00:07:00) plot 
+\i (00:07:01) plotwint initialize "Kyocera FS-6530MFP KX"
+\i (00:07:01) plotwint execute
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 69.8239 80.7814
+\i (00:07:56) trapsize 17611
+\i (00:07:57) zoom in 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom in 5.3665 65.2834
+\i (00:07:57) trapsize 8806
+\i (00:07:57) zoom in 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom in 5.3665 65.2834
+\i (00:07:57) trapsize 4403
+\i (00:07:58) zoom in 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in 8.9769 69.8624
+\i (00:07:58) trapsize 2201
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 10.1216 70.2587
+\i (00:07:59) trapsize 4403
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 10.1216 70.2588
+\i (00:07:59) trapsize 8806
+\i (00:09:34) pick grid 167.7431 73.7810
+\t (00:09:34) last pick:  167.7500  73.7500
+\i (00:09:35) zoom out 1 
+\i (00:09:35) setwindow pcb
+\i (00:09:35) zoom out 160.6985 75.7182
+\i (00:09:35) trapsize 17611
+\i (00:09:35) zoom in 1 
+\i (00:09:35) setwindow pcb
+\i (00:09:35) zoom in 91.3099 115.1677
+\i (00:09:35) trapsize 8806
+\i (00:09:38) zoom fit 
+\i (00:09:38) trapsize 8806
+\i (00:11:24) zoom in 1 
+\i (00:11:24) setwindow pcb
+\i (00:11:24) zoom in 10.6499 76.5546
+\i (00:11:24) trapsize 4403
+\i (00:11:25) zoom out 1 
+\i (00:11:25) setwindow pcb
+\i (00:11:25) zoom out 7.9201 82.8067
+\i (00:11:25) trapsize 8806
+\i (00:11:30) zoom in 1 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom in 10.3857 82.6306
+\i (00:11:30) trapsize 4403
+\i (00:11:33) zoom out 1 
+\i (00:11:33) setwindow pcb
+\i (00:11:33) zoom out 12.2349 79.4606
+\i (00:11:33) trapsize 8806
+\i (00:13:09) pick grid 174.9635 68.7177
+\t (00:13:09) last pick:  175.0000  68.7500
+\i (00:13:10) zoom in 1 
+\i (00:13:10) setwindow pcb
+\i (00:13:10) zoom in 186.4109 75.4100
+\i (00:13:10) trapsize 4403
+\i (00:13:10) zoom in 1 
+\i (00:13:10) setwindow pcb
+\i (00:13:10) zoom in 187.8198 76.1144
+\i (00:13:10) trapsize 2201
+\i (00:13:12) zoom in 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom in 190.4174 83.5553
+\i (00:13:12) trapsize 1101
+\i (00:13:14) show measure 
+\i (00:13:14) zoom in 1 
+\i (00:13:14) setwindow pcb
+\i (00:13:14) zoom in 190.4174 82.8288
+\i (00:13:14) trapsize 550
+\i (00:13:15) pick grid 189.8891 83.3021
+\t (00:13:15) last pick:  190.0000  83.2500
+\i (00:13:16) pick grid 189.9111 83.0159
+\t (00:13:16) last pick:  190.0000  83.0000
+\i (00:13:29) setwindow text
+\i (00:13:29) close 
+\i (00:13:29) setwindow pcb
+\i (00:13:29) zoom out 1 
+\i (00:13:29) setwindow pcb
+\i (00:13:29) zoom out 188.0399 79.6147
+\i (00:13:29) trapsize 1101
+\i (00:13:30) zoom out 1 
+\i (00:13:30) setwindow pcb
+\i (00:13:30) zoom out 188.0399 79.6148
+\i (00:13:30) trapsize 2201
+\i (00:13:30) zoom out 1 
+\i (00:13:30) setwindow pcb
+\i (00:13:30) zoom out 188.0399 79.6148
+\i (00:13:30) trapsize 4403
+\i (00:13:31) roam x -96 
+\i (00:13:31) roam x -96
+\i (00:13:31) roam x -96 
+\i (00:13:31) roam x -96
+\i (00:13:31) roam x -96 
+\i (00:13:31) roam x -96
+\i (00:13:31) roam y 96 
+\i (00:13:31) roam y 96
+\i (00:13:32) roam y 96 
+\i (00:13:32) roam y 96
+\i (00:13:34) zoom fit 
+\i (00:13:34) trapsize 8806
+\i (00:13:40) zoom in 1 
+\i (00:13:40) setwindow pcb
+\i (00:13:40) zoom in 194.1598 57.8866
+\i (00:13:40) trapsize 4403
+\i (00:13:41) zoom out 1 
+\i (00:13:41) setwindow pcb
+\i (00:13:41) zoom out 194.1599 57.8867
+\i (00:13:41) trapsize 8806
+\i (00:29:50) pick grid 209.8339 70.5668
+\t (00:29:50) last pick:  209.7500  70.5000
+\i (00:29:51) setwindow text
+\i (00:29:51) close 
+\i (01:48:38) setwindow form.vf_vis
+\i (01:48:38) FORM vf_vis all_all_visible YES 
+\i (01:48:41) setwindow pcb
+\i (01:48:41) zoom out 1 
+\i (01:48:41) setwindow pcb
+\i (01:48:41) zoom out 103.8137 63.5223
+\i (01:48:41) trapsize 17611
+\i (01:48:41) zoom in 1 
+\i (01:48:41) setwindow pcb
+\i (01:48:41) zoom in 103.8138 63.5222
+\i (01:48:41) trapsize 8806
+\i (01:48:45) setwindow form.vf_vis
+\i (01:48:45) FORM vf_vis all_all_visible NO 
+\i (01:48:48) FORM vf_vis colorview_list Film: FAB 
+\i (01:48:54) FORM vf_vis colorview_list Film: MASK_TOP 
+\i (01:48:58) FORM vf_vis colorview_list Film: SILK_BOTTOM 
+\i (01:49:02) FORM vf_vis colorview_list Film: SILK_TOP 
+\i (01:49:03) setwindow pcb
+\i (01:49:03) zoom out 1 
+\i (01:49:03) setwindow pcb
+\i (01:49:03) zoom out 174.6113 34.4636
+\i (01:49:03) trapsize 17611
+\i (01:49:04) zoom out 1 
+\i (01:49:04) setwindow pcb
+\i (01:49:04) zoom out 120.0163 48.9049
+\i (01:49:04) trapsize 35223
+\i (01:49:05) zoom in 1 
+\i (01:49:05) setwindow pcb
+\i (01:49:05) zoom in 98.8827 41.8603
+\i (01:49:05) trapsize 17611
+\i (01:49:06) zoom in 1 
+\i (01:49:06) setwindow pcb
+\i (01:49:06) zoom in 98.8827 42.9170
+\i (01:49:06) trapsize 8806
+\i (01:54:47) xname_flush 
+\i (01:54:48) xname_flush 
+\i (01:54:50) xname_flush 
+\i (01:54:54) xname_flush 
+\i (01:54:57) xname_flush 
+\i (01:59:54) xname_flush 
+\i (01:59:54) xname_flush 
+\i (16:53:51) xname_flush 
+\i (16:53:51) xname_flush 
+\i (16:53:55) xname_flush 
+\i (16:58:58) open 
+\e (16:58:58) Do you want to save the changes you made to ultrasound_dlp_p0_20171128.brd?
+\i (16:58:59) fillin no 
+\i (16:59:10) fillin "G:\01_work\00_IGS\03_ETC\초음파장비\Power\Artwork\ultrasound_power_p0\ultrasound_power_p0_20171129.brd"
+\i (16:59:10) cd "G:\01_work\00_IGS\03_ETC\초음파장비\Power\Artwork\ultrasound_power_p0"
+\t (16:59:10) Opening existing design...
+\i (16:59:10) trapsize 13948
+\w (16:59:10) Dielectric layer thickness is 0 !
+\t (16:59:10)     Journal end - Fri Dec 01 08:57:35 2017

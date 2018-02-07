@@ -1,0 +1,100 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\igshare_ultrasound_tnr board_rev p1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "IGSHARE_ULTRASOUND_16CH_TOP")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "10_FPGA_TOP")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "11 FPGA_TR")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "12 FPGA_EMIF")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "13 FPGA_CONFIG")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "14 FPGA MGT&NC")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "15 FPGA_POWER&GND")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "20 PULSER")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "30 HVMUX")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "31 HVMUX_16")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "32 DLP CONNECTOR")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "40 AR AFE5816")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "50 CW")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "51 CW_ADC DRIVER")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "52-0 CW_ADC I")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "52-1 CW_ADC Q")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "60 FX3")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "61 FX3_Data BUS_Control Signal")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "62 FX3_Power_Port")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "70 SDRAM")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "71 ATGC_CTRL")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "80 ETC")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "81 CLOCK")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "82 EEPROM")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "83 ATGC_CTRL")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "90 POWER")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "91 POWER_FILTER")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "92 POWER_ANALOG")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "92 POWER_PLS & HVMUX")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "93 POWER_AFE5816")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "94 POWER_CW")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "95 POWER_FPGA & USB & ETC")
+      (Path "Design Resources" ".\igshare_ultrasound_tnr board_rev p1.dsn"
+         "96 POWER_CONTROL"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 345"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 44 1668 44 416")
+        (Scroll "-307 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\01_WORK\00_IGS\03_PROJECT3\01_TNR BOARD\01_SCHEMATIC\IGSHARE_ULTRASOUND_TNR BOARD_REV P1.DSN")
+      (Schematic "IGSHARE_ULTRASOUND_16CH_TOP")
+      (Page "COVER"))))

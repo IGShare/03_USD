@@ -1,0 +1,589 @@
+  Component List              
+  work\jina\ultrasound\tnr
+------------------------------------------------------------------------
+No. Description(Value)       Footprint(Part)         Q'ty   Location Reference
+------------------------------------------------------------------------
+  1 TP                TP0_5_SMD        11	ATGC_TEMP1ATGC_TEMP2TP_VCNTL1 TP1       TP2       
+							TP20      TP3       TP4       TP5       TP6       
+							TP7       
+
+  2 10uF              CC2012           25	C114      C129      C130      C2043     C680      
+							C682      C685      C686      C699      C78       
+							C113      C120      C121      C29       C31       
+							C493      C496      C498      C528      C530      
+							C533      C609      C610      C76       C77       
+
+  3 470nF             CC2012           36	C142      C143      C144      C146      C152      
+							C153      C154      C158      C163      C165      
+							C166      C167      C172      C173      C176      
+							C180      C141      C145      C147      C148      
+							C149      C150      C151      C155      C156      
+							C157      C164      C168      C169      C170      
+							C171      C174      C175      C177      C178      
+							C179      
+
+  4 1nF               CC1005           23	C1875     C2008     C2013     C2019     C2036     
+							C495      C501      C503      C504      C642      
+							C650      C660      C670      C698      C708      
+							C1965     C596      C602      C615      C619      
+							C627      C632      C719      
+
+  5 1uF               CC1608           40	C1876     C1877     C1879     C1996     C1997     
+							C1998     C1999     C2004     C2005     C2007     
+							C2009     C2010     C2012     C2015     C2016     
+							C2018     C633      C635      C637      C646      
+							C647      C649      C655      C656      C659      
+							C665      C666      C668      C692      C693      
+							C695      C704      C705      C707      C594      
+							C600      C613      C617      C625      C630      
+
+  6 100nF             CC1005          340	C1878     C1950     C1951     C1952     C1954     
+							C1961     C1962     C1967     C1968     C1969     
+							C1970     C1971     C2006     C2011     C2017     
+							C2047     C242      C244      C249      C251      
+							C256      C258      C263      C265      C270      
+							C281      C284      C285      C287      C288      
+							C291      C293      C295      C297      C299      
+							C300      C301      C303      C305      C308      
+							C313      C316      C318      C323      C460      
+							C494      C497      C499      C500      C529      
+							C531      C532      C534      C540      C541      
+							C542      C543      C544      C636      C648      
+							C657      C667      C681      C683      C694      
+							C706      C714      C716      C721      C723      
+							C724      C10       C100      C101      C102      
+							C103      C104      C107      C108      C109      
+							C11       C110      C111      C112      C115      
+							C116      C117      C118      C119      C12       
+							C122      C123      C124      C125      C126      
+							C127      C128      C13       C14       C15       
+							C16       C17       C18       C19       C196      
+							C1963     C1964     C1966     C20       C2022     
+							C2023     C2024     C2025     C2027     C2030     
+							C2034     C2035     C2037     C2038     C21       
+							C210      C211      C212      C213      C215      
+							C216      C217      C218      C219      C22       
+							C220      C221      C222      C223      C227      
+							C228      C229      C230      C231      C232      
+							C233      C234      C235      C236      C237      
+							C238      C239      C243      C250      C257      
+							C26       C264      C27       C271      C28       
+							C32       C320      C321      C322      C324      
+							C326      C327      C328      C329      C33       
+							C330      C331      C332      C333      C335      
+							C336      C337      C338      C339      C340      
+							C341      C343      C344      C345      C346      
+							C347      C348      C349      C35       C350      
+							C351      C352      C353      C354      C355      
+							C356      C357      C358      C359      C36       
+							C360      C361      C362      C363      C364      
+							C365      C366      C367      C368      C369      
+							C37       C370      C371      C372      C373      
+							C375      C376      C377      C378      C379      
+							C38       C380      C381      C382      C383      
+							C384      C385      C386      C387      C388      
+							C389      C39       C390      C391      C392      
+							C393      C40       C41       C418      C42       
+							C428      C45       C452      C462      C470      
+							C474      C475      C476      C48       C480      
+							C486      C487      C488      C489      C49       
+							C490      C491      C492      C50       C502      
+							C506      C51       C510      C511      C512      
+							C516      C52       C522      C523      C524      
+							C525      C526      C527      C53       C535      
+							C536      C54       C545      C546      C547      
+							C548      C549      C55       C550      C551      
+							C552      C553      C555      C557      C559      
+							C56       C561      C563      C565      C567      
+							C569      C57       C571      C573      C574      
+							C58       C59       C595      C601      C614      
+							C618      C62       C626      C63       C631      
+							C64       C65       C66       C67       C68       
+							C69       C70       C71       C717      C72       
+							C73       C74       C75       C79       C8        
+							C80       C81       C82       C83       C84       
+							C85       C86       C87       C88       C89       
+							C9        C90       C91       C93       C94       
+							C95       C96       C97       C98       C99       
+
+  7 100nF             CC3216           28	C1894     C1895     C1896     C1898     C1899     
+							C1901     C1902     C1903     C1904     C1905     
+							C1906     C1908     C1909     C1910     C1911     
+							C1940     C597      C598      C603      C604      
+							C605      C606      C611      C612      C247      
+							C254      C261      C268      
+
+  8 680pF             RC1608            4	C1988     C1990     C1992     C1994     
+
+  9 22uF              RC2012            4	C1989     C1991     C1993     C1995     
+
+ 10 150pF             CC1005            3	C2028     C401      C411      
+
+ 11 120pF             RC1005            2	C2032     C2033     
+
+ 12 10uF              TC2012           12	C2039     C2040     C2041     C2042     C334      
+							C342      C644      C645      C325      C374      
+							C394      C599      
+
+ 13 10UF              TC3528            2	C2044     C701      
+
+ 14 10nF              CC1005           27	C2045     C245      C252      C259      C266      
+							C4        C419      C455      C5        C643      
+							C671      C672      C678      C687      C700      
+							C246      C253      C260      C267      C554      
+							C562      C566      C568      C570      C572      
+							C575      C718      
+
+ 15 4.7uF             CC1608           10	C2046     C399      C410      C43       C46       
+							C47       C720      C722      C478      C514      
+
+ 16 330uF             TC6032            3	C30       C6        C7        
+
+ 17 3.3nF             CC2012            4	C396      C404      C406      C414      
+
+ 18 1uF               CC2012            6	C398      C400      C408      C409      C395      
+							C403      
+
+ 19 820pF             CC3216            4	C416      C434      C444      C468      
+
+ 20 390pF             CC1005            2	C420      C457      
+
+ 21 100pF             CC1005            4	C422      C423      C458      C459      
+
+ 22 47uF              TC3528            1	C44       
+
+ 23 150uF             TC6032            1	C539      
+
+ 24 22uF              CC1608            2	C558      C560      
+
+ 25 100uF             CC3225            5	C60       C61       C105      C106      C92       
+
+ 26 22uF              TC6032            4	C623      C675      C676      C679      
+
+ 27 10uF              TC3528            5	C673      C674      C677      C417      C429      
+
+ 28 22pF              CC1005            9	C684      C272      C273      C274      C275      
+							C277      C278      C279      C280      
+
+ 29 4.7uF             CC5750            4	C709      C710      C711      C712      
+
+ 30 100nF/DNI         CC1005            2	C713      C715      
+
+ 31 BL-HG036A-AV-TRB  LED1608           6	D1        D2        D20       D3        D4        
+							D5        
+
+ 32 MMSZ5235B         SOD-123W          8	D10       D11       D12       D13       D6        
+							D7        D8        D9        
+
+ 33 ES3D              DO-214AB          2	D14       D15       
+
+ 34 TFZGTR12B         ZD-TFZ12B         2	D16       D17       
+
+ 35 BAT54S            SOT-23           16	D21       D22       D23       D24       D25       
+							D26       D27       D28       D29       D30       
+							D31       D32       D33       D34       D35       
+							D36       
+
+ 36 BLM41PG750SN1     BEAD4516         20	FB1       FB103     FB106     FB115     FB117     
+							FB121     FB125     FB128     FB132     FB63      
+							FB64      FB67      FB69      FB74      FB78      
+							FB83      FB87      FB98      FB2       FB3       
+
+ 37 BLM18AG121SN1     BEAD1608         12	FB10      FB12      FB13      FB15      FB4       
+							FB6       FB7       FB9       FB11      FB14      
+							FB5       FB8       
+
+ 38 BLM18PG181SN1     BEAD1608         41	FB101     FB102     FB105     FB107     FB108     
+							FB110     FB111     FB114     FB116     FB118     
+							FB119     FB120     FB122     FB123     FB124     
+							FB126     FB127     FB129     FB130     FB131     
+							FB16      FB62      FB66      FB68      FB70      
+							FB72      FB73      FB75      FB79      FB81      
+							FB82      FB85      FB86      FB88      FB89      
+							FB90      FB91      FB95      FB99      FB109     
+							FB84      
+
+ 39 BLM21PG221SN1     BEAD2012          1	FB133     
+
+ 40 BLM41PG600SN1     BEAD4516          7	FB41      FB42      FB43      FB45      FB46      
+							FB47      FB48      
+
+ 41 BLM41PG181SN1     BEAD4516         11	FB49      FB50      FB51      FB52      FB53      
+							FB54      FB55      FB56      FB57      FB60      
+							FB61      
+
+ 42 BOX-HEADER-14P,2mm/SMD BOX_HEADER2X7_2MM_SMD   1	J8        
+
+ 43 SLO-G102550ADSR-40MHz SLO-10            1	OSC1      
+
+ 44 FQD7P20TM         TO-252            2	Q1        Q8        
+
+ 45 TN2524N8          SOT89-B           3	Q10       Q3        Q6        
+
+ 46 FDD120AN15AQ      TO-252            2	Q2        Q7        
+
+ 47 TP2520N8          SOT89-B           1	Q4        
+
+ 48 MMBT2907(Fairchild) SOT23             2	Q5        Q9        
+
+ 49 330               RC1005            8	R10       R16       R18       R5        R6        
+							R7        R8        R9        
+
+ 50 100               RC1005           14	R1070     R1071     R3        R389      R428      
+							R45       R48       R49       R50       R56       
+							R57       R429      R46       R47       
+
+ 51 10K               RC1005           29	R11       R13       R1442     R15       R195      
+							R198      R216      R219      R23       R382      
+							R386      R388      R390      R411      R421      
+							R422      R423      R111      R112      R113      
+							R114      R90       R91       R92       R93       
+							R95       R96       R97       R98       
+
+ 52 4.7K              RC1005           12	R12       R14       R1428     R1430     R1431     
+							R1433     R1434     R1435     R1436     R410      
+							R420      R1429     
+
+ 53 0                 RC1005           47	R124      R127      R129      R134      R137      
+							R1388     R1389     R139      R1390     R1391     
+							R1392     R1393     R1443     R1444     R1445     
+							R1447     R1448     R1449     R1450     R1451     
+							R1452     R1453     R1454     R1455     R1456     
+							R1457     R1458     R1459     R1460     R1461     
+							R1462     R1463     R1466     R17       R19       
+							R199      R20       R205      R209      R21       
+							R22       R1446     R1465     R31       R64       
+							R65       R66       
+
+ 54 499               RC1005            4	R125      R132      R135      R143      
+
+ 55 49.9              RC1005            5	R130      R138      R1421     R426      R427      
+
+ 56 499               RC1608            4	R1399     R1400     R1402     R1404     
+
+ 57 6.19K             RC1005            3	R1409     R1411     R373      
+
+ 58 4.99K             RC1005           18	R1410     R1412     R1413     R366      R371      
+							R375      R379      R393      R398      R772      
+							R100      R101      R102      R103      R115      
+							R116      R117      R118      
+
+ 59 22                RC1005           60	R1414     R224      R226      R227      R228      
+							R230      R232      R233      R235      R236      
+							R237      R239      R240      R241      R242      
+							R243      R244      R246      R249      R251      
+							R252      R253      R254      R255      R258      
+							R261      R262      R263      R264      R265      
+							R266      R267      R268      R269      R271      
+							R272      R273      R274      R275      R277      
+							R279      R280      R281      R283      R285      
+							R286      R287      R288      R225      R229      
+							R231      R234      R238      R247      R248      
+							R250      R256      R257      R259      R260      
+
+ 60 1K                RC1005           13	R1415     R1416     R146      R155      R176      
+							R184      R196      R217      R310      R311      
+							R312      R404      R419      
+
+ 61 6.34K             RC1005            4	R1422     R1423     R1417     R1418     
+
+ 62 2.87K             RC1005            8	R1424     R1425     R1426     R1427     R1438     
+							R1439     R1440     R1437     
+
+ 63 887               RC1005            1	R1432     
+
+ 64 16.9K             RC1005            1	R1441     
+
+ 65 4.02K             RC1005            4	R145      R158      R170      R190      
+
+ 66 10.5K             RC1005            2	R1464     R369      
+
+ 67 10K               RC1608           17	R1467     R276      R282      R289      R293      
+							R294      R295      R296      R297      R298      
+							R409      R412      R1074     R278      R284      
+							R290      R53       
+
+ 68 10K/DNI           RC1608            1	R1468     
+
+ 69 200               RC1005            3	R147      R179      R302      
+
+ 70 24.9              RC1005            4	R148      R149      R180      R181      
+
+ 71 402               RC1005            2	R160      R193      
+
+ 72 796               RC2012            1	R192      
+
+ 73 10K/DNI           RC1005            4	R194      R87       R88       R89       
+
+ 74 0/DNI             RC1005            9	R197      R213      R218      R30       R25       
+							R27       R29       R32       R61       
+
+ 75 562               RC1005            1	R200      
+
+ 76 329               RC1005            1	R203      
+
+ 77 60.4K             RC1005            2	R204      R222      
+
+ 78 300               RC1005            3	R206      R211      R215      
+
+ 79 2K                RC1005            4	R208      R212      R291      R292      
+
+ 80 3.57K             RC1005            1	R210      
+
+ 81 3K/DNI            RC1005            1	R214      
+
+ 82 4.7K/DNI          RC1005            3	R24       R26       R28       
+
+ 83 332               RC1005            1	R245      
+
+ 84 1M                RC1005            1	R300      
+
+ 85 15.4K             RC1005            3	R364      R397      R773      
+
+ 86 36K               RC1005            1	R368      
+
+ 87 20.5K             RC1005            1	R370      
+
+ 88 2.37K             RC1005            1	R377      
+
+ 89 0                 RC3225            2	R380      R387      
+
+ 90 10.2K             RC1005            1	R381      
+
+ 91 1.37K             RC1005            1	R383      
+
+ 92 3.24K             RC1005            1	R384      
+
+ 93 3.32K             RC1005            1	R385      
+
+ 94 1.24K             RC1005            1	R391      
+
+ 95 47K               RC1005            6	R399      R400      R403      R417      R418      
+							R424      
+
+ 96 4.7K              RC6432            2	R401      R402      
+
+ 97 20                RC1005            8	R79       R81       R83       R85       R80       
+							R82       R84       R86       
+
+ 98 EVQ-Q2P02W        EVQQ2             2	SW1       SW2       
+
+ 99 CW_I_ADP          TP0_5_SMD         1	TP11      
+
+100 CW_I_ADN          TP0_5_SMD         1	TP14      
+
+101 CW_Q_ADP          TP0_5_SMD         1	TP16      
+
+102 REF_2V5           TP0_5_SMD         1	TP18      
+
+103 CW_Q_ADN          TP0_5_SMD         1	TP19      
+
+104 SCW_QSUM          TP0_5_SMD         1	TP31      
+
+105 SCW_ISUM          TP0_5_SMD         1	TP9       
+
+106 XC7K70T-FB(G)676  BGA676_26_1_SMD   1	U1        
+
+107 AFE5818           BGA289_WH15_00_P0_800   1	U11       
+
+108 OPA2614D          SOP8_3_9_6_1_27   1	U14       
+
+109 THS4131CDGN/TI    DGN8_3_0_65       2	U16       U20       
+
+110 AD820ARZ/ADI/SOP8 SOP8_3_9_6_1_27   1	U21       
+
+111 ADS1601IPFBR/TI   QFP48WH8_50P0_500F1_40   2	U22       U25       
+
+112 OPA2822E/TI/SOP8  MSOP8_3_4_9_0_65   2	U23       U24       
+
+113 FX3_121_BUMP_4    BGA121_WH10_00_P0_800   1	U26       
+
+114 TPD4E05U06__DQA   SOP10W1P0_500F0_55   1	U27       
+
+115 TPD2EUSB30ADRTR   SOT-3P_DRT        1	U29       
+
+116 STHV1600          BGA144_WH10_40_P0_800   1	U3        
+
+117 NCP360SNT1G       SOT23-5P          1	U30       
+
+118 IS45S16800F-7TLA1 TSSOP54W12_00P0_800F0_80   1	U31       
+
+119 AT24HC02C-SSHM__  SOP8_3_9_6_1_27   1	U34       
+
+120 MAX4968           MAX4968           4	U4        U5        U6        U7        
+
+121 TPS74201RGWR      QFN20WH5_00P0_650F0_55H3_00  10	U40       U43       U45       U47       U55       
+							U58       U78       U79       U83       U84       
+
+122 TPS7A3401DGN      DGN8_3_0_65       1	U42       
+
+123 LT1962EMS8/Linear__tech MSOP8_3_4_9_0_65   2	U48       U49       
+
+124 LT1964EDD#PBF/Linear__tech DFN8_3_0_5        1	U50       
+
+125 ADR441ARMZ/ADI    MSOP8_3_4_9_0_65   1	U51       
+
+126 AD820ARZ/ADI      SOP8_3_9_6_1_27   1	U52       
+
+127 LT1962EMS8-3.3    MSOP8_3_4_9_0_65   1	U53       
+
+128 LT1962EMS8-5      MSOP8_3_4_9_0_65   2	U56       U93       
+
+129 EL7202CS          SOP8_3_9_6_1_27   1	U59       
+
+130 CDCLVD2102RGTR__  QFN16WH3_00P0_500F0_60H1_55   1	U60       
+
+131 ADR291GRUZ        MSOP8_3_4_9_0_65   1	U86       
+
+132 OP462HRUZ         TSSOP14_4_4_6_4_0_65   2	U87       U89       
+
+133 AD7305BRUZ        TSSOP20_4_4_6_4_0_65   1	U88       
+
+134 OP262             SOP8_3_9_6_1_27   1	U90       
+
+135 LM1117MPX-3.3     SOT-223           1	U91       
+
+136 LT1964ES5-SD      SOT23-5P          1	U92       
+
+137 ABM10W-19.2000MHZ-4-D1X-T3 NX2520SA          1	Y1        
+
+138 1uF               CC1005           40	C1972     C1973     C1974     C1975     C1976     
+							C1977     C1978     C1979     C1980     C1981     
+							C1982     C1983     C1984     C1985     C1986     
+							C1987     C2000     C2001     C2002     C2003     
+							C469      C471      C472      C473      C479      
+							C481      C482      C483      C484      C485      
+							C505      C507      C508      C509      C515      
+							C517      C518      C519      C520      C521      
+
+139 10pF              CC1005            4	C2020     C2026     C2031     C3        
+
+140 220nF             RC1005            1	C2021     
+
+141 330pF             RC1005            1	C2029     
+
+142 10nF              CC2012            4	C248      C255      C262      C269      
+
+143 15nF              CC1005           16	C282      C283      C286      C289      C290      
+							C292      C294      C296      C298      C302      
+							C304      C306      C310      C315      C317      
+							C319      
+
+144 100nF             CC2012            2	C397      C402      
+
+145 47uF              CC3225            2	C477      C513      
+
+146 13pF              CC1005            2	C537      C538      
+
+147 2.2uF             CC1608            2	C556      C564      
+
+148 10UF              TC2012            3	C616      C628      C629      
+
+149 MPZ2012S601A      BEAD2012          3	FB17      FB18      FB19      
+
+150 10uH/MLF2012E100KT BEAD2012         16	L10       L11       L12       L13       L14       
+							L15       L16       L17       L2        L3        
+							L4        L5        L6        L7        L8        
+							L9        
+
+151 1K                RC2012           16	R1022     R1024     R1026     R1031     R1033     
+							R1037     R1039     R1040     R1041     R1043     
+							R1045     R1047     R1051     R1053     R1055     
+							R1057     
+
+152 2K                RC1608            8	R1397     R1398     R1401     R1403     R1405     
+							R1406     R1407     R1408     
+
+153 4.22K             RC1005            2	R1419     R1420     
+
+154 R/DNI             RC1005            6	R201      R202      R207      R220      R221      
+							R223      
+
+155 100K              RC1608            2	R270      R425      
+
+156 6.04K             RC1005            1	R301      
+
+157 26.1K             RC3216            8	R356      R357      R358      R359      R360      
+							R361      R362      R363      
+
+158 120               RC6432            8	R405      R406      R407      R408      R413      
+							R414      R415      R416      
+
+159 0/DNI             RC1608            1	R58       
+
+160 PCF8574PW         TSSOP20_4_4_6_4_0_65   1	U8        
+
+161 74AHC30PW         TSSOP14_4_4_6_4_0_65   1	U9        
+
+162 PCB_HOLE          HOLE3_5           4	H1        H2        H3        H4        
+
+163 HEADER_2.54mm_2ROW_4P HEADER2X4_2_54MM   2	J1        J18       
+
+164 Pin__Header_2.54mm_1row_6P HEADER6           1	J10       
+
+165 ZX360D-B-10P      ZX360D-B-10P      1	J13       
+
+166 Pin__Header_2.54mm_1row_7p HEADER7           1	J14       
+
+167 FX18-120S-0.8SV15 FX18-120S_0_8SV15-HRS   1	J17       
+
+168 1__PIN__HDR       1PIN-HDR          5	J3        J4        J5        J6        J7        
+
+169 HV_AHVP1          1PIN-HDR          1	TH1       
+
+170 D2VP              1PIN-HDR          1	TH10      
+
+171 A3V5P             1PIN-HDR          1	TH11      
+
+172 GND               1PIN-HDR          3	TH12      TH13      TH14      
+
+173 A3V3P_PLS         1PIN-HDR          1	TH15      
+
+174 A3V3N_PLS         1PIN-HDR          1	TH17      
+
+175 D2V5P_FPGA        1PIN-HDR          1	TH18      
+
+176 HV_AHVN1          1PIN-HDR          1	TH2       
+
+177 A1V9P_AFE         1PIN-HDR          1	TH22      
+
+178 D1V2P_AFE         1PIN-HDR          1	TH26      
+
+179 PPMIX_10VP        1PIN-HDR          1	TH27      
+
+180 HV_AHVP2          1PIN-HDR          1	TH3       
+
+181 A5VP_CW           1PIN-HDR          1	TH30      
+
+182 A5VN_CW           1PIN-HDR          1	TH31      
+
+183 REF_2V5P          1PIN-HDR          1	TH33      
+
+184 AD_3.3VP          1PIN-HDR          1	TH35      
+
+185 D1VP_VCCINT       1PIN-HDR          2	TH39      TH42      
+
+186 HV_AHVN2          1PIN-HDR          1	TH4       
+
+187 A5VP_ADC          1PIN-HDR          1	TH41      
+
+188 D1V8P_FPGA        1PIN-HDR          1	TH43      
+
+189 A3V3P_VCNTL       1PIN-HDR          1	TH44      
+
+190 A3.3VN_VCNTL      1PIN-HDR          1	TH45      
+
+191 A5VP_AFE          1PIN-HDR          1	TH46      
+
+192 A12VP             1PIN-HDR          1	TH5       
+
+193 A5VN              1PIN-HDR          1	TH7       
+
+194 D6VP              1PIN-HDR          1	TH8       
+
+195 D3V3P             1PIN-HDR          1	TH9       
+
+196 8832E-060FS-N-F   8832E-060-FS-N-F   1	J12       
+
+-----------------------------------------------------------------------
+TOTAL								1341

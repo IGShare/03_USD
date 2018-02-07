@@ -1,0 +1,36 @@
+\t (00:01:27) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:01:27)     Journal start - Thu Nov 30 15:51:17 2017
+\t (00:01:27)         Host=USER User=Administrator Pid=21324 CPUs=4
+\t (00:01:27) 
+\d (00:01:27) Database opened: G:/01_work/00_IGS/03_ETC/초음파장비/DLP BOard/Artwork/ultrasound_dlp_p0/ultrasound_dlp_p0_20171128.brd
+\i (00:01:27) generaledit 
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 207.3340 -11.6318
+\i (00:01:28) trapsize 11277
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 204.4019 -17.9470
+\i (00:01:28) trapsize 5639
+\i (00:01:31) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out 180.3813 -9.8274
+\i (00:01:31) trapsize 11277
+\i (00:01:31) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out 135.9489 4.3820
+\i (00:01:31) trapsize 22555
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 140.9109 79.2632
+\i (00:01:32) trapsize 11277
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in 228.4226 75.8800
+\i (00:01:34) trapsize 5639
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 224.0245 69.9031
+\i (00:01:35) trapsize 11277
+\i (00:01:36) exit 
+\t (00:01:37)     Journal end - Thu Nov 30 15:51:27 2017

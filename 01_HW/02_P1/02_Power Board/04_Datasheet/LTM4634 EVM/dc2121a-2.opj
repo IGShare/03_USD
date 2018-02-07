@@ -1,0 +1,35 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\dc2121a-2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\dc2121a-2.dsn")
+      (Path "Design Resources" ".\dc2121a-2.dsn" "DC2121A"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 331"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 132 1464 132 490")
+        (Scroll "-17 308")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path
+         "G:\01_WORK\00_IGS\03_ETC\초음파장비\POWER\LTM4634 EVM\DC2121A-2.DSN")
+      (Schematic "DC2121A")
+      (Page "LTM4634EY"))))
